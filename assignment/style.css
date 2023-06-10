@@ -1,4 +1,44 @@
 /* Give your page a fun background color */
+body{ 
+  background-color:rgb(96, 154, 212); 
+  margin: 0;
+}
+
+img{
+  width: 30%;
+  height: auto;
+  border: 5px solid black; 
+}
+
+h1{
+  text-align: center;
+
+}
+
+p{
+  color:rgb(179, 176, 168);
+  font-style: italic;
+}
+
+header{
+  color:rgb(81, 102, 109);
+  background-color: rgb(185, 159, 116);
+  
+
+}
+footer{
+  background-color: rgb(8, 66, 105);
+  height: 30px;
+  text-align: center;
+}
+
+ul{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
 
 /* Make the header and footer a different color from the background */
 
